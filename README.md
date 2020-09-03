@@ -1,7 +1,5 @@
 ## Hi there, I'm Lydell - aka Dot_growen 👋
 
-<br />
-
 ### I'm a Runner, Developer, and Hankerranker!
 
 - 🔭 I’m currently working on a Portfolio Builder!
