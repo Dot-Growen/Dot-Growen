@@ -1,5 +1,7 @@
 ## Hi there, I'm Lydell - aka Dot_growen 👋
+
 <br />
+
 ### I'm a Runner, Developer, and Hankerranker!
 
 - 🔭 I’m currently working on a Portfolio Builder!
@@ -13,7 +15,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCQYcqeiLnkkbIVgZUuO2drA?view_as=subscriber
