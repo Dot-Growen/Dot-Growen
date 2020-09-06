@@ -2,10 +2,6 @@
 
 ### I'm a Runner, Developer, and Hankerranker!
 
-- 🔭 I’m currently working on a Portfolio Builder!
-- ⚛ I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Join my first company as a JR developer
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
