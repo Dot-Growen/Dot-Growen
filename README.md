@@ -5,7 +5,7 @@
 [<img align="left" alt="lydell growen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/dot_growen
 [youtube]: https://www.youtube.com/channel/UCQYcqeiLnkkbIVgZUuO2drA?view_as=subscriber
 [instagram]: https://www.instagram.com/lydell_growen/
 [linkedin]: https://www.linkedin.com/in/lydell-growen-2a3029134/
